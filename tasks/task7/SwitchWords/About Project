@@ -1,0 +1,6 @@
+in this project, you can enter statment and then enter the word you want to modify it then enter the last word that you want to be in the statment.
+Ex: in the first step i will enter: 
+  1-Ahmed Mo Abdou
+  2- Mo
+  3-Mohamed
+Result:   Ahmed Mohamed Abdou
